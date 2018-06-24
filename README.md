@@ -6,7 +6,7 @@ In this lesson you're going to build an application that provides a Command Line
 
 **Please note that while you will be writing code to scrape data from a public website, what we're really looking for is your capacity to effectively write good object oriented ruby code (objects, not hashes, separation of concerns, etc.) - we're less interested in the details of the regex's or selector you're using to parse the web pages that you're scraping.**
 
-## Requirements
+## Requirementsg
 
 1. Provide a CLI
 2. CLI must provide access to data from a web page.
